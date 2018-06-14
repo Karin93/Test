@@ -1,3 +1,4 @@
+author Jankowski :D
 1
 2
 MASTER0
