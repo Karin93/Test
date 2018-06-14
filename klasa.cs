@@ -1,0 +1,9 @@
+1
+2
+3
+N4
+N5
+D1
+D2
+zmiany_menu
+TEST5
