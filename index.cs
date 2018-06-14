@@ -1,4 +1,4 @@
-author Jankowski :D
+author Patryk Jankowski :D
 1
 2
 MASTER0
